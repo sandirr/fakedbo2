@@ -1,0 +1,40 @@
+{
+    "po": [
+        {
+            "id": "18",
+            "agent_id": "101",
+            "type": "Surat Jalan",
+            "header_1": "Header Line 1 : Demo MU Distributor",
+            "header_2": "Header Line 2 : Alamat Demo MU Distributor",
+            "title": "Surat Jalan",
+            "signature_status": "1",
+            "signature_name": "Sesuai PIC Gudang Penerbit Surat Jalan",
+            "hormat_kami": "Demo MU_",
+            "perhatian_1": "Perhatian 1a contoh",
+            "perhatian_2": "Perhatian 2a contoh",
+            "perhatian_3": "Perhatian 3a contoh",
+            "perhatian_4": "Perhatian 4a contoh",
+            "created_at": "2021-06-08 09:11:56",
+            "updated_at": "2024-02-24 11:08:47",
+            "action": "<a href=\"https://mngr.dbo.id/agent/print-out/edit/18\" class=\"btn btn-success btn-xs \" title=\"Ubah\" data-button=\"edit\">\n    <i class=\"fa fa-pencil-square-o fa-fw\"></i>\n</a>\n    <a href=\"javascript:void(0)\" id=\"deleteData\" class=\"btn btn-danger btn-xs \" title=\"Hapus\" data-href=\"https://mngr.dbo.id/agent/print-out/18/delete\" data-button=\"delete\">\n        <i class=\"fa fa-trash-o fa-fw\"></i>\n    </a>\n\n"
+        },
+        {
+            "id": "26",
+            "agent_id": "101",
+            "type": "Picking List",
+            "header_1": "Header Line 1 : Demo MU Distributor",
+            "header_2": "Header Line 2 : Alamat Demo MU Distributor",
+            "title": "Picking List Azz",
+            "signature_status": "1",
+            "signature_name": "Sesuai PIC Gudang Penerbit Surat Jalan",
+            "hormat_kami": null,
+            "perhatian_1": null,
+            "perhatian_2": null,
+            "perhatian_3": null,
+            "perhatian_4": null,
+            "created_at": "2022-10-03 16:46:13",
+            "updated_at": "2024-04-17 16:39:09",
+            "action": "<a href=\"https://mngr.dbo.id/agent/print-out/edit/26\" class=\"btn btn-success btn-xs \" title=\"Ubah\" data-button=\"edit\">\n    <i class=\"fa fa-pencil-square-o fa-fw\"></i>\n</a>\n    <a href=\"javascript:void(0)\" id=\"deleteData\" class=\"btn btn-danger btn-xs \" title=\"Hapus\" data-href=\"https://mngr.dbo.id/agent/print-out/26/delete\" data-button=\"delete\">\n        <i class=\"fa fa-trash-o fa-fw\"></i>\n    </a>\n\n"
+        }
+    ]
+}
