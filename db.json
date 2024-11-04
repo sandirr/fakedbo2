@@ -36,5 +36,33 @@
             "updated_at": "2024-04-17 16:39:09",
             "action": "<a href=\"https://mngr.dbo.id/agent/print-out/edit/26\" class=\"btn btn-success btn-xs \" title=\"Ubah\" data-button=\"edit\">\n    <i class=\"fa fa-pencil-square-o fa-fw\"></i>\n</a>\n    <a href=\"javascript:void(0)\" id=\"deleteData\" class=\"btn btn-danger btn-xs \" title=\"Hapus\" data-href=\"https://mngr.dbo.id/agent/print-out/26/delete\" data-button=\"delete\">\n        <i class=\"fa fa-trash-o fa-fw\"></i>\n    </a>\n\n"
         }
-    ]
+    ],
+    "report-target": [
+        {
+          "brand": "Djabesmen",
+          "products": [
+            { "name": "Aksesoris", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 },
+            { "name": "Atap", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 }
+          ],
+          "total": 0.0000
+        },
+        {
+          "brand": "Fortuna",
+          "products": [
+            { "name": "Fortuna Jemuran", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 },
+            { "name": "Fortuna Tangga", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 },
+            { "name": "Fortuna Troli Lipat", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 },
+            { "name": "Gerobak Sorong", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 }
+          ],
+          "total": 0.0000
+        },
+        {
+          "brand": "Granito",
+          "products": [
+            { "name": "ArTile", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 },
+            { "name": "Granito", "monthlyData": { "JAN": 0, "FEB": 0, "MAR": 0, "APR": 0, "MEI": 0, "JUN": 0, "JUL": 0, "AUG": 0, "SEP": 0, "OCT": 0, "NOV": 0, "DEC": 0 }, "total": 0 }
+          ],
+          "total": 0.0000
+        }
+    ]      
 }
