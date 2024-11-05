@@ -165,16 +165,6 @@
             { "target": 0, "achievement": 0, "percentage": "0.00%" },
             { "target": 0, "achievement": 0, "percentage": "0.00%" }
           ]
-        },
-        {
-          "brand": "Total",
-          "values": [
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" }
-          ]
         }
       ]
     }         
