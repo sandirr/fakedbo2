@@ -64,5 +64,118 @@
           ],
           "total": 0.0000
         }
-    ]      
+    ],
+    "achievement": {
+      "header": [
+        { "label": "JAN", "colSpan": 3 },
+        { "label": "FEB", "colSpan": 3 },
+        { "label": "MAR", "colSpan": 3 },
+        { "label": "APRL", "colSpan": 3 },
+        { "label": "Mei", "colSpan": 3 }
+      ],
+      "data": [
+        {
+          "brand": "Djabesmen",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ],
+          "children": [
+            {
+              "brand": "Atap",
+              "values": [
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" }
+              ]
+            },
+            {
+              "brand": "Aksesoris",
+              "values": [
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" },
+                { "target": 0, "achievement": 0, "percentage": "0.00%" }
+              ]
+            }
+          ]
+        },
+        {
+          "brand": "Atap",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "Aksesoris",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "RoyalBoard",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "RB Clad",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "RB Classic",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "RB Fascia",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "Total",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        }
+      ]
+    }         
 }
