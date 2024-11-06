@@ -137,6 +137,26 @@
           ]
         },
         {
+          "brand": "RB Clad",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
+          "brand": "RB Classic",
+          "values": [
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" },
+            { "target": 0, "achievement": 0, "percentage": "0.00%" }
+          ]
+        },
+        {
           "brand": "RB Fascia",
           "values": [
             { "target": 0, "achievement": 0, "percentage": "0.00%" },
