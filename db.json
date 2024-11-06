@@ -137,26 +137,6 @@
           ]
         },
         {
-          "brand": "RB Clad",
-          "values": [
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" }
-          ]
-        },
-        {
-          "brand": "RB Classic",
-          "values": [
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" },
-            { "target": 0, "achievement": 0, "percentage": "0.00%" }
-          ]
-        },
-        {
           "brand": "RB Fascia",
           "values": [
             { "target": 0, "achievement": 0, "percentage": "0.00%" },
@@ -225,44 +205,6 @@
               "1811009578, Sejahtera Bersama, UD"
           ],
           "created_at": "2024-11-01 09:10:20 +0700 WIB"
-      },
-      {
-          "id": 1826,
-          "salesman_source": 2043,
-          "salesman_destination": 5349,
-          "number_of_stores": 1,
-          "created_by": 105,
-          "new_tsh_id": 1826,
-          "transfer_date": "2-November-2024 15:25:30 - Saturday",
-          "description": "dummy transfer data 4",
-          "salesman_source_name": "Dewi Salesman",
-          "email_agent": "dewi.manager@dbo.id",
-          "salesman_destination_name": "Gunawan Surya",
-          "store_list": [
-              "1811009579, Makmur Abadi, UD"
-          ],
-          "created_at": "2024-11-02 15:25:30 +0700 WIB"
-      },
-      {
-          "id": 1827,
-          "salesman_source": 2044,
-          "salesman_destination": 5350,
-          "number_of_stores": 5,
-          "created_by": 106,
-          "new_tsh_id": 1827,
-          "transfer_date": "3-November-2024 11:40:45 - Sunday",
-          "description": "dummy transfer data 5",
-          "salesman_source_name": "Eka Salesman",
-          "email_agent": "eka.manager@dbo.id",
-          "salesman_destination_name": "Rina Rahayu",
-          "store_list": [
-              "1811009580, Sukses Bersama, UD",
-              "1811009581, Subur Makmur, TK",
-              "1811009582, Karya Mandiri, UD",
-              "1811009583, Sejahtera Jaya, TK",
-              "1811009584, Mulya Sari, UD"
-          ],
-          "created_at": "2024-11-03 11:40:45 +0700 WIB"
       }
   ]  
 }
